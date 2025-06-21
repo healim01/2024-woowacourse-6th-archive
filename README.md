@@ -8,7 +8,7 @@
 | **MISSION**         | **PAIR**                                | **REVIEWER** | **Step 1** | **Step 2** |
 | ------------------- | --------------------------------------- | ------------ |------------ |------------ |
 | 자동차 경주 게임 🏎️ | [@월하](https://github.com/vi-wolhwa)   | 하루         | [바로가기](https://github.com/woowacourse/javascript-racingcar/pull/264) |[바로가기](https://github.com/woowacourse/javascript-racingcar/pull/309) |
-| 로또 🎱             | [@리버](https://github.com/0jenn0)      | 블링         |[바로가기](https://github.com/healim01/javascript-lotto/tree/bb9301764d3e5d8f973e1a2fe41b8c3390f116f7) |[바로가기](https://github.com/healim01/javascript-lotto/tree/8e8aab6361dad71dbe6c1d7fdae9078626150baf) |
+| 로또 🎱             | [@리버](https://github.com/0jenn0)      | 블링         |[바로가기](https://github.com/woowacourse/javascript-lotto/pull/257) |[바로가기](https://github.com/woowacourse/javascript-lotto/pull/297) |
 | 점심 뭐 먹지 🍴     | [@버건디](https://github.com/brgndyy)   | 카일         |[바로가기](https://github.com/healim01/javascript-lunch/tree/2cae764c260e31b44332c56f8bda7e184f2655cd) |[바로가기](https://github.com/healim01/javascript-lunch/tree/b2932cca662d1d79fe171131368beb594875a57e) |
 | 영화 리뷰 🎬        | [@바다](https://github.com/BadaHertz52) | 케빈         |[바로가기](https://github.com/healim01/javascript-movie-review/tree/c7af7b124b0e79950001c729c86331bbe8e71079) |[바로가기](https://github.com/healim01/javascript-movie-review/tree/97bf094c6baaae3c3235e6132837b2f2b415729e) |
 
